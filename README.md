@@ -14,3 +14,5 @@ The following are the steps you should follow to train your custom Yolo model:
 9. Finally, test the model for image, video and webcam.[My video and webcam results](https://www.youtube.com/watch?v=JcAcoKf-4y0&list=PL8OxPIrXWurYzjNjTFmAH6GowpAs0YzlU&ab_channel=YUNUSEMREBARDIZ)
 
 ![p4](https://user-images.githubusercontent.com/27730254/96222937-cc79a500-0f95-11eb-911b-5631d2348eb5.jpg)
+
+![p3](https://user-images.githubusercontent.com/27730254/96223041-f8952600-0f95-11eb-9078-cee1798c4a42.jpg)
