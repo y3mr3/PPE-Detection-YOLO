@@ -12,3 +12,5 @@ The following are the steps you should follow to train your custom Yolo model:
 7. Save model in specific steps(1000-2000..).[Here are the weight results of my dataset](https://drive.google.com/drive/folders/1kP2WNz3o3WvuT1XhlVWK4eQ5biXiBm_Q?usp=sharing)
 8. Download model to test at local.
 9. Finally, test the model for image, video and webcam.[My video and webcam results](https://www.youtube.com/watch?v=JcAcoKf-4y0&list=PL8OxPIrXWurYzjNjTFmAH6GowpAs0YzlU&ab_channel=YUNUSEMREBARDIZ)
+
+![p4](https://user-images.githubusercontent.com/27730254/96222937-cc79a500-0f95-11eb-911b-5631d2348eb5.jpg)
